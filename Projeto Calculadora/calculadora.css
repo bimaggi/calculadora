@@ -1,0 +1,39 @@
+div{
+    margin: 0pt 100pt;
+    background:  rgb(2, 31, 32);
+    width: 250pt;
+    padding: 30pt 30pt;
+    height: 100px ;
+    border-style: inset;
+    border-color:rgb(113, 137, 141);
+    border-image: none;
+    
+    
+}
+input{
+    background: rgb(113, 137, 141);
+    color: rgb(233, 243, 243);
+    font-size-adjust: none;
+    padding: 20pt 60pt 20pt;
+    border-width: 7px;
+    border-style: inset;
+    border-color: white;
+    border-image: none;
+    
+}
+
+button {
+    color: white;
+    display: inline-block;
+    text-align: center;
+    background-color: rgb(113, 137, 141);
+    box-sizing: border-box;
+    margin: 5pt 5pt 5pt;
+    font: 10pt Arial;
+    padding: 10px 15px ;
+    border-width: 5px;
+    border-style: outset;
+    border-color: white;
+    border-image: none;
+}
+
